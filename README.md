@@ -22,7 +22,7 @@ This should then show a message on your WiFi Link asking you to pair the device.
 ### Adding the Lightwave Component to Home Assistant
 The lightwave.py file needs to be placed in the installation directory of Home Assistant. For me this is
 ```
-/custom_components/lights/
+/custom_components/light/
 ``` 
 There are instructions to follow on the instructions on the home-assistant website. If you need help, let me know.
 
