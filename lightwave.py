@@ -7,7 +7,7 @@ Implements LightwaveRF lights.
 My understanding of the LightWave Hub is that devices cannot be discovered so must be
 registered manually. This is done in the configuration file:
 
-switch:
+light:
   - platform: lightwave
     devices:
       R1D2:
